@@ -1,0 +1,16 @@
+{
+  "name": "coronaminusone/igrs-test-build",
+  "version": "1.0.0",
+  "description": "Test build with private packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "@oliverreese/my-private-dependency": "1.3.0"
+  }
+}
